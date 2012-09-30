@@ -1,7 +1,7 @@
 
-$gridColumnWidth: 70px;
+$gridColumnWidth: 60px;
 $gridColumns: 12;
-$gridGutterWidth: 30px;
+$gridGutterWidth: 20px;
 $gridRowWidth: ($gridColumns * $gridColumnWidth) + ($gridGutterWidth * ($gridColumns - 1));
 $fluidGridColumnWidth: 6.382978723%;
 $fluidGridGutterWidth: 2.127659574%;
